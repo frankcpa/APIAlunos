@@ -1,5 +1,5 @@
 <h1 align="center">
-📄<br>Aplicação Carrega Banco
+📄<br>API Alunos
 </h1>
 
 Pesquisa desenvolvida como projeto de iniciação científica. ☕
